@@ -28,4 +28,4 @@ client.on("guildMemberAdd", async member => {
   .setFooter('Thanks For Joining!')
   channel.send(WELCOME)
 })
-client.login("BOTTOKENHERE"); // Login with the token make sure to add it when starting
+client.login("ODc2MTEwOTU5NjI4OTE0Njg4.YRfT6g.bRbLxwrOfw4CkAF97gYHtx2o4xw"); // Login with the token make sure to add it when starting
